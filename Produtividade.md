@@ -1,5 +1,9 @@
 # Produtividade no TCC
 
+## Antes da produtividade
+ -- Voce se sente desmotivado? Nao sabe ao certo o que tem que fazer?
+ Voce estabelece metas e ao final nao consegue cumpri-las?
+
 ## O que é Produtividade?
  -- Produtividade é uma forte relacao entre os recursos utilizados e a producao final. Seja algo material, algo espiritual ou apenas um objetivo.
    Organizacao em seu dia a dia, caminhando com a produtividade ao seu lado.
